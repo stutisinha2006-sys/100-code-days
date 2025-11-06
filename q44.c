@@ -23,4 +23,4 @@ int main() {
 Enter number of terms (n): 18
 Sum of the series up to 18 terms = 16.25
 Enter number of terms (n): 9
-Sum of the series up to 9 terms = 7.59
+Sum of the series up to 9 terms = 7.59s
